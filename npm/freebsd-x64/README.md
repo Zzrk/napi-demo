@@ -1,3 +1,3 @@
-# `napi-demo-freebsd-x64`
+# `@kkrz/napi-demo-freebsd-x64`
 
-This is the **x86_64-unknown-freebsd** binary for `napi-demo`
+This is the **x86_64-unknown-freebsd** binary for `@kkrz/napi-demo`

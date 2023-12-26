@@ -1,3 +1,3 @@
-# `napi-demo-linux-arm64-gnu`
+# `@kkrz/napi-demo-linux-arm64-gnu`
 
-This is the **aarch64-unknown-linux-gnu** binary for `napi-demo`
+This is the **aarch64-unknown-linux-gnu** binary for `@kkrz/napi-demo`

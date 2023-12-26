@@ -1,5 +1,5 @@
 {
-  "name": "napi-demo-android-arm-eabi",
+  "name": "@kkrz/napi-demo-android-arm-eabi",
   "version": "1.0.0",
   "os": [
     "android"
