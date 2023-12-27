@@ -1,3 +1,3 @@
-# `@kkrz/napi-demo-android-arm64`
+# `@krzz/napi-demo-android-arm64`
 
-This is the **aarch64-linux-android** binary for `@kkrz/napi-demo`
+This is the **aarch64-linux-android** binary for `@krzz/napi-demo`

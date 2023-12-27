@@ -1,3 +1,3 @@
-# `@kkrz/napi-demo-darwin-arm64`
+# `@krzz/napi-demo-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `@kkrz/napi-demo`
+This is the **aarch64-apple-darwin** binary for `@krzz/napi-demo`

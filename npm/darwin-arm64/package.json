@@ -1,5 +1,5 @@
 {
-  "name": "@kkrz/napi-demo-darwin-arm64",
+  "name": "@krzz/napi-demo-darwin-arm64",
   "version": "1.0.1",
   "os": [
     "darwin"

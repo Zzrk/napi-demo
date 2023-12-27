@@ -1,3 +1,3 @@
-# `@kkrz/napi-demo-linux-arm-gnueabihf`
+# `@krzz/napi-demo-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `@kkrz/napi-demo`
+This is the **armv7-unknown-linux-gnueabihf** binary for `@krzz/napi-demo`

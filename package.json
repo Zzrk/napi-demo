@@ -1,6 +1,6 @@
 {
-  "name": "@kkrz/napi-demo",
-  "version": "1.0.1",
+  "name": "@krzz/napi-demo",
+  "version": "1.0.0",
   "description": "A node addon demo by napi-rs",
   "main": "index.js",
   "repository": "git@github.com:Zzrk/napi-demo.git",

@@ -1,5 +1,5 @@
 {
-  "name": "@kkrz/napi-demo-win32-ia32-msvc",
+  "name": "@krzz/napi-demo-win32-ia32-msvc",
   "version": "1.0.1",
   "os": [
     "win32"

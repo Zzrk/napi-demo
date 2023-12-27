@@ -1,5 +1,5 @@
 {
-  "name": "@kkrz/napi-demo-linux-arm-gnueabihf",
+  "name": "@krzz/napi-demo-linux-arm-gnueabihf",
   "version": "1.0.1",
   "os": [
     "linux"

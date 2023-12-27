@@ -1,5 +1,5 @@
 {
-  "name": "@kkrz/napi-demo-linux-x64-musl",
+  "name": "@krzz/napi-demo-linux-x64-musl",
   "version": "1.0.1",
   "os": [
     "linux"

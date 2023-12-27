@@ -1,3 +1,3 @@
-# `@kkrz/napi-demo-android-arm-eabi`
+# `@krzz/napi-demo-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `@kkrz/napi-demo`
+This is the **armv7-linux-androideabi** binary for `@krzz/napi-demo`

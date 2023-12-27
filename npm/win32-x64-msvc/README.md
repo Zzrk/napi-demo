@@ -1,3 +1,3 @@
-# `@kkrz/napi-demo-win32-x64-msvc`
+# `@krzz/napi-demo-win32-x64-msvc`
 
-This is the **x86_64-pc-windows-msvc** binary for `@kkrz/napi-demo`
+This is the **x86_64-pc-windows-msvc** binary for `@krzz/napi-demo`

@@ -1,5 +1,5 @@
 {
-  "name": "@kkrz/napi-demo-freebsd-x64",
+  "name": "@krzz/napi-demo-freebsd-x64",
   "version": "1.0.1",
   "os": [
     "freebsd"
